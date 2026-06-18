@@ -2,7 +2,7 @@
 
 > 서로 다른 페르소나를 가진 AI 에이전트와 함께하는 **AI 독서모임 「책담」** *(가제)*
 
-**팀** — 김창규([@Nangmanful](https://github.com/Nangmanful)) · 이승현([@LSHgrandvoyage](https://github.com/LSHgrandvoyage)) · 김하늘
+**팀** — 김창규([@Nangmanful](https://github.com/Nangmanful)) · 이승현([@LSHgrandvoyage](https://github.com/LSHgrandvoyage)) · 김하늘([@haneulkimhera](https://github.com/haneulkimhera))
 
 ### 무엇을 만드나
 
