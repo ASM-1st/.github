@@ -10,6 +10,6 @@
 
 ### 기술 멘토
 
-- **김동현** — 인증 · Agentic AI / LangGraph
+- **김동현** — Agentic AI / LangGraph
 - **박정두** — 백엔드
 - **안범진** — AI 모델링
